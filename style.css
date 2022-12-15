@@ -1,0 +1,71 @@
+img {
+    width: 360px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.header {
+    color: #ff0000;
+    font-family: 'Pacifico', cursive;
+    font-size: 5em;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+body {
+    background-color: rgb(229, 221, 143);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 380px;
+  background-color: rgb(138, 113, 60);
+  height: 100%; 
+  position: fixed; 
+  overflow: auto; 
+}
+
+li a {
+  display: block;
+  color: rgb(255, 196, 0);
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(218, 105, 0);
+  color: rgb(255, 196, 0);
+}
+
+.active {
+  background-color: rgb(150, 83, 28);
+  color: rgb(255, 196, 0);
+}
+
+.Body_Header {
+  color: #ff0000;
+  font-size: 3.36em;
+  font-family: 'Pacifico', cursive;
+}
+
+.card {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 400px;
+  box-shadow: 0 3px 6px 0 rgba(41, 28, 8, 0.322);
+  padding: 3px 10px;
+  width: 700px;
+}
+
+.tableauPlaceholder {
+  width: 560px;
+}
+
+.tableauViz {
+  width: 560px;
+}
+
+
+
